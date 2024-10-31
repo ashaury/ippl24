@@ -1,0 +1,11 @@
+package srp;
+
+public class OrderHistory {
+    public void getDailyHistory() {
+
+    }
+
+    public void getMonthlyHistory() {
+
+    }
+}
