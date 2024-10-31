@@ -1,5 +1,6 @@
 package ocp;
 
-public class Cinema {
-    public Double price;
+abstract public class Cinema {
+    public double price;
+    abstract double calculateAdminFee();
 }

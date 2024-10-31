@@ -1,3 +1,5 @@
+package srp;
+
 class Order{
     public void calculateTotalSum(){
 
@@ -11,4 +13,8 @@ class Order{
     public void addItem(Item item){
 
     }
+    public void deleteItem(Item item){
+
+    }
+
 }
